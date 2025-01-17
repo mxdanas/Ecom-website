@@ -1,2 +1,2 @@
 for running frontend 
-npm i & npm runn dev
+npm i & npm run dev
